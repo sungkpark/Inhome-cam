@@ -1,0 +1,23 @@
+{
+  "name": "inhome-cam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/..",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungkpark/Inhome-cam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sungkpark/Inhome-cam/issues"
+  },
+  "homepage": "https://github.com/sungkpark/Inhome-cam#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
