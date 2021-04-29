@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/sungkpark/Inhome-cam#readme",
   "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.5",
     "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
